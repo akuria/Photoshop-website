@@ -21,7 +21,7 @@ header{
 }
 
 section{
-    height: 550px;
+    height: 530px;
     width: 900px;
     margin: 0 auto;
     background-color: #EDF1F9;
@@ -33,6 +33,11 @@ footer{
     margin: 0 auto;
     background-color: #003764;
     display: block;
+}
+
+.header{
+    width: 900px;
+    margin: 0 auto;
 }
 
 .spacer{
@@ -157,17 +162,85 @@ footer{
     margin: 20px 0 -10px 0;
 }
 
-.buttonleft{
-    height: 50px;
+.button-left{
+    width: 150px;
+    margin: -20px 0;
+    float: left;
+}
+
+.button-right{
+    margin: -20px 0 0 60px;
     width: 150px;
     float: left;
 }
 
-.buttonright{
-    height: 50px;
-    width: 150px;
+.footer{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.footer h2{
+    font-size: 24px;
+    margin-left: 15px;
+    color: #003764;
+}
+
+.footer p{
+    margin: -19px 0px 0px 15px;
+}
+
+.box-l{
+    height: 188px;
+    width: 180px;
+    margin: 30px 40px 0 30px;
+    margin-left: 120px;
+    background-color: #B9CBEA;
+    box-shadow: 0px 10px 10px #222;
+    border-radius: 5px;
+    float: left;
+}
+
+.box-l img{
+    width: 170px;
+    margin-top: 50px;
     float: right;
 }
+
+.box-c{
+    height: 188px;
+    width: 180px;
+    margin: 30px 40px 0 30px;
+    background-color: #B9CBEA;
+    box-shadow: 0px 10px 10px #222;
+    border-radius: 5px;
+    float: left;
+}
+
+.box-c img{
+    width: 170px;
+    margin-top: 50px;
+    float: right;
+}
+
+.box-r{
+    height: 188px;
+    width: 180px;
+    margin: 30px 40px 0 30px;
+    background-color: #B9CBEA;
+    box-shadow: 0px 10px 10px #222;
+    border-radius: 5px;
+    float: left;
+}
+
+.box-r img{
+    width: 170px;
+    margin-top: 30px;
+    float: right;
+}
+
+
+
+
 
 
 

@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"a",
+				"alt	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AkuriaMACBOOK/Documents/Codify Projects/Photoshop website/css/main.css",
+		"/Users/AkuriaMACBOOK/Documents/Codify Projects/Photoshop website/index.html",
+		"/Users/AkuriaMACBOOK/Documents/Codify Projects/37 Signals/index.html",
+		"/Users/AkuriaMACBOOK/Documents/Codify Projects/37 Signals/css/main.css",
+		"/Users/AkuriaMACBOOK/Documents/Codify Projects/37 Signals/css/test",
+		"/Users/AkuriaMACBOOK/Documents/CODIFY SCHOOL WORK/37 Signals/index.html",
+		"/Users/AkuriaMACBOOK/Documents/CODIFY SCHOOL WORK/37 Signals/css/main.css",
+		"/Users/AkuriaMACBOOK/Documents/CODIFY SCHOOL WORK/37 Signals/css/test",
+		"/Volumes/Akuria External HD/CODIFY SCHOOL WORK/Google Replica/index.html",
+		"/Volumes/Akuria External HD/CODIFY SCHOOL WORK/Google Replica/css/main.css",
+		"/Volumes/Akuria External HD/CODIFY SCHOOL WORK/Bonus Week 1/index.html",
+		"/Volumes/Akuria External HD/CODIFY SCHOOL WORK/Google Replica/css/test.css",
+		"/Users/AkuriaMACBOOK/Desktop/initializr/css/main.css",
+		"/Users/AkuriaMACBOOK/Desktop/initializr/index.html",
+		"/Users/AkuriaMACBOOK/Desktop/initializr/.htaccess"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0px",
+			"30"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
